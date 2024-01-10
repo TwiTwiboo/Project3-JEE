@@ -1,4 +1,4 @@
-TripHub t Platform README
+TripHub Platform README
 
 Overview
 TripHub is a Software as a Service (SaaS) platform designed to bridge the gap between tour organizers, accommodation owners, transport providers, restaurants, and travelers. The platform offers customizable packages for tour organizers to enhance their online presence and service offering, tailored to their budget.
